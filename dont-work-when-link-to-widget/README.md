@@ -21,8 +21,6 @@ Visual Intelligence displays an error under the following conditions.
 
 <img width=300 src="error.png">
 
-![](error.gif)
-
 # Background
 
 There is a valid strategy that making a shared intent module and link it to both an app and a widget.
